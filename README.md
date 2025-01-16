@@ -16,7 +16,7 @@ Contributions to this repository are welcome! If you have additional documentati
 
 ## Feedback
 
-Your feedback is valuable! If you have suggestions for improving existing content or ideas for new additions, please open an issue or reach out to the repository maintainers. If you have any other feedbacks, you can reach out to us at harsh.thakkar0369@gmail.com
+Your feedback is valuable! If you have suggestions for improving existing content or ideas for new additions, please open an issue or reach out to the repository maintainers. If you have any other feedbacks, you can reach out to us at ayushguptab6@gmail.com or +91 7324829593
 
 
 ## Connect with Me
